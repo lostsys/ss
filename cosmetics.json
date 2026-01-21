@@ -4,7 +4,7 @@
     "cape": "https://textures.minecraft.net/texture/c887335f41106815947940d1fc37a999466db9a622ad449fc132fc6450557ef",
     "aura": "rain",
     "trail": "flame",
-    "skinny": false,
+    "skinny": false
   },
   "Web": {
     "skin": "https://textures.minecraft.net/texture/4261c3baa38be3a45b46bdd95dba9d84b57df8823b3a329b248d2641103c6227",
